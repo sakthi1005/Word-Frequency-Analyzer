@@ -1,0 +1,8 @@
+Python is easy to learn.
+
+Python is powerful and Python is popular.
+
+Data science uses Python.
+Machine learning uses Python.
+
+Programming in Python is fun.
